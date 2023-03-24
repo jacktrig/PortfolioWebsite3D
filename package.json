@@ -1,8 +1,10 @@
 {
+  "homepage": "https://jacktrig.github.io/PortfolioWebsite3D/",
   "name": "portfoliowebsite3d",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
