@@ -1,12 +1,11 @@
 {
-  "homepage": "https://jacktrig.github.io/PortfolioWebsite3D/",
+  "homepage": "https://jacktrig.github.io/",
   "name": "portfoliowebsite3d",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-
   "scripts": {
-    "publish":"gh-pages -d src",
+    "publish": "gh-pages -d src",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
@@ -21,7 +20,8 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.9.0",
     "react-tilt": "^0.1.4",
-    "react-vertical-timeline-component": "^3.6.0"
+    "react-vertical-timeline-component": "^3.6.0",
+    "three": "^0.150.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
